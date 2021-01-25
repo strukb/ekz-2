@@ -1,0 +1,28 @@
+{
+    "yogurts": [
+        {
+            "mark": "Molokia1",
+            "quantity": 20
+        },
+        {
+            "mark": "Molokia2",
+            "quantity": 30
+        },
+        {
+            "mark": "Molokia3",
+            "quantity": 40
+        },
+        {
+            "mark": "Molokia4",
+            "quantity": 50
+        },
+        {
+            "mark": "Molokia5",
+            "quantity": 60
+        },
+        {
+            "mark": "Molokia6",
+            "quantity": 70
+        }
+    ]
+}
